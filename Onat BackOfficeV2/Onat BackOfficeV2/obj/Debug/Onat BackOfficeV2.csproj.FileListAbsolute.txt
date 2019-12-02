@@ -1,0 +1,22 @@
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\bin\Debug\Onat BackOfficeV2.exe.config
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\bin\Debug\Onat BackOfficeV2.exe
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\bin\Debug\Onat BackOfficeV2.pdb
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\bin\Debug\MetroFramework.dll
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat BackOfficeV2.csprojAssemblyReference.cache
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.OnatBackOfficeV2.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.Properties.Resources.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat BackOfficeV2.csproj.GenerateResource.cache
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat BackOfficeV2.csproj.CoreCompileInputs.cache
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat BackOfficeV2.csproj.CopyComplete
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat BackOfficeV2.exe
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat BackOfficeV2.pdb
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.Müsteri.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.YeniMüsteri.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.YeniServis.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.ServisAnasayfa.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.TeklifAnasayfa.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.TeklifListesi.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.YeniTeklif.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.ServisListesi.resources
+C:\Users\kanma\source\repos\Onat BackOfficeV2\Onat BackOfficeV2\obj\Debug\Onat_BackOfficeV2.ServisGüncelle.resources
